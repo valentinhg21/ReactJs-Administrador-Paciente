@@ -3,7 +3,7 @@ This is a project where you can manage your appointments.
 You can create and delete an appointment and the appointments created are saved in the localstorage.
 
 Preview
-https://affectionate-brown-1c19b5.netlify.app/
+https://administrador-de-pacientesjs.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
